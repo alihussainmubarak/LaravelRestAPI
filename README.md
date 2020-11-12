@@ -2,11 +2,7 @@
 Sample Larave Rest API That can create, read, update and delete a post from the database
 
 
-Rest API CRUD in Laravel 7
-
-- Written in PHP Laravel 6 framework
-- CRUD: create, read, update and delete a post
-- MySql Databases
+This video tutorial will take you step-by-step to build CRUD Laravel Rest API. Also on the way, you will learn how to use PHP Laravel, the most popular web back-end framework. As well as will be using phpMyAdmin to manage a database and perform CRUD database operations (creating, reading, updating, and deleting data). This tutorial uses testing and sending requests by Postman.
 
 Watch my tutorial on YouTube:
 
